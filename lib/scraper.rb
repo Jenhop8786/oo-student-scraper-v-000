@@ -46,12 +46,3 @@ end
 end
 
 #student_profile[:twitter] = doc.css("div.social-icon-container a").attribute("href").value
-
-
-
-
-
-
-
-
-  
